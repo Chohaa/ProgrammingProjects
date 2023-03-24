@@ -1,10 +1,4 @@
-  1 from functools import reduce
-Last login: Mon Mar 20 13:39:13 on console
-xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
- hanna@macarena2  ~
- vi fermi_rhf.py
- ✘ hanna@macarena2  ~
- cat fermi_rhf.py
+
 from functools import reduce
 import numpy as np
 import scipy
